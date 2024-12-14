@@ -24,6 +24,7 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix TV Shows & 
    This will start a Jupyter Notebook server. Access it by navigating to `http://localhost:8888` in your web browser.
 
 ### Dataset
+Go to Kaggle (https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 Download the Netflix TV Shows & Movies dataset and place it in the project directory. The dataset should be named `netflix_titles.csv`.
 
